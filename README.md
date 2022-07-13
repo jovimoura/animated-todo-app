@@ -17,7 +17,7 @@
 ### Clone
 
 ```
-git clone
+git clone https://github.com/jovimoura/animated-todo-app
 ```
 
 ### Access the folder
@@ -51,7 +51,7 @@ exp://192.168.0.12:19000
 ### Clone o repositório
 
 ```
-git clone
+git clone https://github.com/jovimoura/animated-todo-app
 ```
 
 ### Acesse o diretorio
