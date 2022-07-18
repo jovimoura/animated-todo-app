@@ -1,13 +1,13 @@
 # Animated To Do List 📱
 
 <p>
-  🇺🇸 Animated To Do App made with React Native, Expo and JavaScript!
+  🇺🇸 Animated To Do App made with React Native, Expo and TypeScript!
 </p>
 
 <br />
 
 <p>
-  🇧🇷 Animated To Do App feito com React Native, Expo e JavaScript!
+  🇧🇷 Animated To Do App feito com React Native, Expo e TypeScript!
 </p>
 
 ## 🇺🇸 If you want to analyze the project on your machine, follow this step by step. 🇧🇷 Caso você queira analisar o projeto em sua máquina, siga este passo a passo:
